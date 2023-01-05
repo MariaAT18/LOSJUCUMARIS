@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="automation.privateapis.crocodiles.TestCrocodilePrivate" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-05T20:09:16" hostname="DESKTOP-KOUH5KC" time="2.653">
+  <properties/>
+  <testcase name="getCrocodileStatusOk()" classname="automation.privateapis.crocodiles.TestCrocodilePrivate" time="2.653"/>
+  <system-out><![CDATA[The response status is 200
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
